@@ -65,8 +65,8 @@ Regular python scripts:
 Sea ice data:
     NSIDC sea ice extent: <br />
        [https://noaadata.apps.nsidc.org/NOAA/G02135/north/daily/data/](https://noaadata.apps.nsidc.org/NOAA/G02135/north/daily/data/)
-    <br />
-    NSIDC daily gridded concentrations: 
+    <br /><br />
+    NSIDC daily gridded concentrations: <br />
        [https://noaadata.apps.nsidc.org/NOAA/G02202_V4/north/daily/](https://noaadata.apps.nsidc.org/NOAA/G02202_V4/north/daily/)
 
     NSIDC sea ice age
