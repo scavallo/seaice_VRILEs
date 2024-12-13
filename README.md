@@ -63,20 +63,20 @@ Regular python scripts:
     seaIceMasks.py contains functions needed for plot_seaicemasks_events_forpaper.py
 
 Sea ice data:
-#   NSIDC sea ice extent:
-#       https://noaadata.apps.nsidc.org/NOAA/G02135/north/daily/data/
-#
-#   NSIDC daily gridded concentrations:
-#       https://noaadata.apps.nsidc.org/NOAA/G02202_V4/north/daily/
-#
-#   NSIDC sea ice age
-#       https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0611_seaice_age_v4/
-#
-#   http://nsidc.org/data/G02202/versions/2#
-#   https://climatedataguide.ucar.edu/search/node/sea%20ice
-#   https://climatedataguide.ucar.edu/climate-data/sea-ice-concentration-data-overview-comparison-table-and-graphs
-#   
-#   NOAA/NSIDC: Concentration estimates are most reliable within the consolidated ice pack during cold, winter 
-#   conditions (errors ~5-10%). The estimates are least reliable close to the ice edge and during melt conditions, 
-#   where biases may be 20-30%. At any given location (grid cell) errors may be large (>50%) 
-#   (https://climatedataguide.ucar.edu/climate-data/sea-ice-concentration-noaansidc-climate-data-record)
+    NSIDC sea ice extent:
+       https://noaadata.apps.nsidc.org/NOAA/G02135/north/daily/data/
+
+    NSIDC daily gridded concentrations:
+       https://noaadata.apps.nsidc.org/NOAA/G02202_V4/north/daily/
+
+    NSIDC sea ice age
+       https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0611_seaice_age_v4/
+
+    http://nsidc.org/data/G02202/versions/2#
+    https://climatedataguide.ucar.edu/search/node/sea%20ice
+    https://climatedataguide.ucar.edu/climate-data/sea-ice-concentration-data-overview-comparison-table-and-graphs
+   
+    NOAA/NSIDC: Concentration estimates are most reliable within the consolidated ice pack during cold, winter 
+    conditions (errors ~5-10%). The estimates are least reliable close to the ice edge and during melt conditions, 
+    where biases may be 20-30%. At any given location (grid cell) errors may be large (>50%) 
+    (https://climatedataguide.ucar.edu/climate-data/sea-ice-concentration-noaansidc-climate-data-record)
