@@ -64,7 +64,7 @@ Regular python scripts:
 
 Sea ice data:
     NSIDC sea ice extent:
-       <a href ="https://noaadata.apps.nsidc.org/NOAA/G02135/north/daily/data/">Here</a>
+       [https://noaadata.apps.nsidc.org/NOAA/G02135/north/daily/data/](https://noaadata.apps.nsidc.org/NOAA/G02135/north/daily/data/)
 
     NSIDC daily gridded concentrations:
        https://noaadata.apps.nsidc.org/NOAA/G02202_V4/north/daily/
