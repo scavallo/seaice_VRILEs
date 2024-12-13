@@ -63,11 +63,11 @@ Regular python scripts:
     seaIceMasks.py contains functions needed for plot_seaicemasks_events_forpaper.py
 
 Sea ice data:
-    NSIDC sea ice extent:
+    NSIDC sea ice extent: <br />
        [https://noaadata.apps.nsidc.org/NOAA/G02135/north/daily/data/](https://noaadata.apps.nsidc.org/NOAA/G02135/north/daily/data/)
 
-    NSIDC daily gridded concentrations:
-       https://noaadata.apps.nsidc.org/NOAA/G02202_V4/north/daily/
+    NSIDC daily gridded concentrations: <br />
+       [https://noaadata.apps.nsidc.org/NOAA/G02202_V4/north/daily/](https://noaadata.apps.nsidc.org/NOAA/G02202_V4/north/daily/)
 
     NSIDC sea ice age
        https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0611_seaice_age_v4/
