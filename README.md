@@ -68,14 +68,14 @@ Sea ice data:
     <br /><br />
     NSIDC daily gridded concentrations: <br />
        [https://noaadata.apps.nsidc.org/NOAA/G02202_V4/north/daily/](https://noaadata.apps.nsidc.org/NOAA/G02202_V4/north/daily/)
-
-    NSIDC sea ice age
-       https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0611_seaice_age_v4/
-
-    http://nsidc.org/data/G02202/versions/2#
-    https://climatedataguide.ucar.edu/search/node/sea%20ice
-    https://climatedataguide.ucar.edu/climate-data/sea-ice-concentration-data-overview-comparison-table-and-graphs
-   
+    <br /><br />
+    NSIDC sea ice age: <br />
+       [https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0611_seaice_age_v4/](https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0611_seaice_age_v4/)
+    <br /><br />
+    [http://nsidc.org/data/G02202/versions/2#](http://nsidc.org/data/G02202/versions/2#) <br />
+    [https://climatedataguide.ucar.edu/search/node/sea%20ice](https://climatedataguide.ucar.edu/search/node/sea%20ice) <br />
+    [https://climatedataguide.ucar.edu/climate-data/sea-ice-concentration-data-overview-comparison-table-and-graphs](https://climatedataguide.ucar.edu/climate-data/sea-ice-concentration-data-overview-comparison-table-and-graphs) <br />
+    <br /><br />   
     NOAA/NSIDC: Concentration estimates are most reliable within the consolidated ice pack during cold, winter 
     conditions (errors ~5-10%). The estimates are least reliable close to the ice edge and during melt conditions, 
     where biases may be 20-30%. At any given location (grid cell) errors may be large (>50%) 
